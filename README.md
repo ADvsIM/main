@@ -32,4 +32,4 @@ Data loading → train/validation/test split → (optional) adjustment of minori
 
 ## 🏷️ Label Convention
 ----
-Anomaly = y=1, Normal = y=0. Scores are assumed to follow “higher = more anomalous.”
+Anomaly: y=1, Normal: y=0. Scores are assumed to follow “higher = more anomalous.”
