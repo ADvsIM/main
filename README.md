@@ -8,7 +8,7 @@ Data loading → train/validation/test split → (optional) adjustment of minori
 
 ## ▶️ Example Command
 ----
-```python experiment_revision_threshold.py -d 35 -m 0 -s 0 -l 3 -mi 3 -se 0 -g 0 --epochs 50 --lr 0.001 --batch_size 128 --thresholdq 0.95```
+```python experiment.py -d 35 -m 0 -s 0 -l 3 -mi 3 -se 0 -g 0 --epochs 50 --lr 0.001 --batch_size 128 --thresholdq 0.95```
 
 ## ⚙️ Key Parameter Descriptions
 ----
